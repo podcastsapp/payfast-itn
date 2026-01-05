@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "payfast-itn",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "0eb456b1-ade4-4025-adef-5ed213c9dc9f",
+			"database_name": "d1-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
